@@ -1,0 +1,11 @@
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\Reporting\bin\Debug\Reporting.dll
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\Reporting\bin\Debug\Reporting.pdb
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\Reporting\bin\Debug\Reporting.xml
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\Reporting\obj\Debug\Reporting.vbprojAssemblyReference.cache
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\Reporting\obj\Debug\Reporting.Resources.resources
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\Reporting\obj\Debug\Reporting.vbproj.GenerateResource.cache
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\Reporting\obj\Debug\Reporting.vbproj.CoreCompileInputs.cache
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\Reporting\obj\Debug\Reporting.dll
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\Reporting\obj\Debug\Reporting.xml
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\Reporting\obj\Debug\Reporting.pdb
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\Reporting\obj\Debug\Reporting.vbproj.ResolveComReference.cache

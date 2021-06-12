@@ -1,0 +1,61 @@
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\appsTutoriasV1.0.1.exe.config
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\appsTutoriasV1.0.1.exe
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\appsTutoriasV1.0.1.pdb
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\appsTutoriasV1.0.1.xml
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\Reporting.dll
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\Reporting.pdb
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\Reporting.xml
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.vbprojAssemblyReference.cache
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.vbproj.ResolveComReference.cache
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Alumnos.resources
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Form1.resources
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Resources.resources
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.vbproj.GenerateResource.cache
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.vbproj.CoreCompileInputs.cache
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.vbproj.CopyComplete
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.exe
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.xml
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.pdb
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Registro.resources
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\appsTutoriasV1.0.1.exe.config
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\appsTutoriasV1.0.1.exe
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\appsTutoriasV1.0.1.pdb
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\appsTutoriasV1.0.1.xml
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\Reporting.dll
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\Reporting.pdb
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\Reporting.xml
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.vbprojAssemblyReference.cache
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.vbproj.ResolveComReference.cache
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Alumnos.resources
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Form1.resources
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Form2.resources
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Resources.resources
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Registro.resources
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.vbproj.GenerateResource.cache
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.vbproj.CoreCompileInputs.cache
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.vbproj.CopyComplete
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.exe
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.xml
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.pdb
+C:\Users\oscuro\Desktop\Respaldo 1\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Form3.resources
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\appsTutoriasV1.0.1.exe.config
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\appsTutoriasV1.0.1.exe
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\appsTutoriasV1.0.1.pdb
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\appsTutoriasV1.0.1.xml
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\Reporting.dll
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\Reporting.pdb
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\bin\Debug\Reporting.xml
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.vbprojAssemblyReference.cache
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.vbproj.ResolveComReference.cache
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Alumnos.resources
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Form1.resources
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Form2.resources
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Form3.resources
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Resources.resources
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Registro.resources
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.vbproj.GenerateResource.cache
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.vbproj.CoreCompileInputs.cache
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.vbproj.CopyComplete
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.exe
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.xml
+C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.pdb

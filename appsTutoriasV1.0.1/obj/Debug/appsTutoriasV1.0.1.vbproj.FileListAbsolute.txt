@@ -59,3 +59,5 @@ C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTuto
 C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.exe
 C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.xml
 C:\Users\oscuro\Desktop\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1.0.1.pdb
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Form2.resources
+C:\Users\oscuro\source\repos\appsTutoriasV1.0.1\appsTutoriasV1.0.1\obj\Debug\appsTutoriasV1._0._1.Form3.resources

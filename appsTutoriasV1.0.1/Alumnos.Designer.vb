@@ -64,6 +64,14 @@ Partial Class Alumnos
         Me.Button5 = New System.Windows.Forms.Button()
         Me.SaveFileDialog1 = New System.Windows.Forms.SaveFileDialog()
         Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.TextBox29 = New System.Windows.Forms.TextBox()
+        Me.TextBox28 = New System.Windows.Forms.TextBox()
+        Me.TextBox27 = New System.Windows.Forms.TextBox()
+        Me.TextBox26 = New System.Windows.Forms.TextBox()
+        Me.TextBox25 = New System.Windows.Forms.TextBox()
+        Me.TextBox24 = New System.Windows.Forms.TextBox()
+        Me.Label17 = New System.Windows.Forms.Label()
+        Me.TextBox23 = New System.Windows.Forms.TextBox()
         Me.Label16 = New System.Windows.Forms.Label()
         Me.Label15 = New System.Windows.Forms.Label()
         Me.TextBox22 = New System.Windows.Forms.TextBox()
@@ -79,14 +87,14 @@ Partial Class Alumnos
         Me.Label12 = New System.Windows.Forms.Label()
         Me.Label10 = New System.Windows.Forms.Label()
         Me.Label11 = New System.Windows.Forms.Label()
-        Me.TextBox10 = New System.Windows.Forms.TextBox()
         Me.Label9 = New System.Windows.Forms.Label()
         Me.Label8 = New System.Windows.Forms.Label()
+        Me.TextBox10 = New System.Windows.Forms.TextBox()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
-        Me.Button8 = New System.Windows.Forms.Button()
         Me.TextBox4 = New System.Windows.Forms.TextBox()
         Me.TextBox9 = New System.Windows.Forms.TextBox()
+        Me.Button1 = New System.Windows.Forms.Button()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.MenuStrip1.SuspendLayout()
         Me.Panel1.SuspendLayout()
@@ -188,7 +196,7 @@ Partial Class Alumnos
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.NuevoToolStripMenuItem, Me.ActualizarToolStripMenuItem, Me.EliminarToolStripMenuItem, Me.VerToolStripMenuItem, Me.EDITARREGISTROSToolStripMenuItem, Me.VerTablaToolStripMenuItem, Me.GenerarNumerosToolStripMenuItem, Me.SUBIRDATOSToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(1211, 24)
+        Me.MenuStrip1.Size = New System.Drawing.Size(1175, 24)
         Me.MenuStrip1.TabIndex = 35
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -340,21 +348,21 @@ Partial Class Alumnos
         '
         Me.TextBox14.Location = New System.Drawing.Point(82, 131)
         Me.TextBox14.Name = "TextBox14"
-        Me.TextBox14.Size = New System.Drawing.Size(90, 20)
+        Me.TextBox14.Size = New System.Drawing.Size(48, 20)
         Me.TextBox14.TabIndex = 49
         '
         'TextBox15
         '
         Me.TextBox15.Location = New System.Drawing.Point(82, 160)
         Me.TextBox15.Name = "TextBox15"
-        Me.TextBox15.Size = New System.Drawing.Size(90, 20)
+        Me.TextBox15.Size = New System.Drawing.Size(48, 20)
         Me.TextBox15.TabIndex = 50
         '
         'TextBox16
         '
         Me.TextBox16.Location = New System.Drawing.Point(80, 186)
         Me.TextBox16.Name = "TextBox16"
-        Me.TextBox16.Size = New System.Drawing.Size(90, 20)
+        Me.TextBox16.Size = New System.Drawing.Size(50, 20)
         Me.TextBox16.TabIndex = 51
         '
         'TextBox3
@@ -366,24 +374,32 @@ Partial Class Alumnos
         '
         'Button3
         '
-        Me.Button3.Location = New System.Drawing.Point(589, 196)
+        Me.Button3.Location = New System.Drawing.Point(996, 27)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(109, 23)
+        Me.Button3.Size = New System.Drawing.Size(147, 23)
         Me.Button3.TabIndex = 54
         Me.Button3.Text = "sumar columnas"
         Me.Button3.UseVisualStyleBackColor = True
         '
         'Button5
         '
-        Me.Button5.Location = New System.Drawing.Point(82, 243)
+        Me.Button5.Location = New System.Drawing.Point(996, 67)
         Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(121, 23)
+        Me.Button5.Size = New System.Drawing.Size(147, 23)
         Me.Button5.TabIndex = 56
         Me.Button5.Text = "Exportar archivo"
         Me.Button5.UseVisualStyleBackColor = True
         '
         'Panel1
         '
+        Me.Panel1.Controls.Add(Me.TextBox29)
+        Me.Panel1.Controls.Add(Me.TextBox28)
+        Me.Panel1.Controls.Add(Me.TextBox27)
+        Me.Panel1.Controls.Add(Me.TextBox26)
+        Me.Panel1.Controls.Add(Me.TextBox25)
+        Me.Panel1.Controls.Add(Me.TextBox24)
+        Me.Panel1.Controls.Add(Me.Label17)
+        Me.Panel1.Controls.Add(Me.TextBox23)
         Me.Panel1.Controls.Add(Me.Label16)
         Me.Panel1.Controls.Add(Me.Label15)
         Me.Panel1.Controls.Add(Me.TextBox22)
@@ -404,10 +420,68 @@ Partial Class Alumnos
         Me.Panel1.Controls.Add(Me.TextBox14)
         Me.Panel1.Controls.Add(Me.TextBox15)
         Me.Panel1.Controls.Add(Me.TextBox16)
-        Me.Panel1.Location = New System.Drawing.Point(850, 36)
+        Me.Panel1.Location = New System.Drawing.Point(572, 27)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(312, 273)
+        Me.Panel1.Size = New System.Drawing.Size(376, 273)
         Me.Panel1.TabIndex = 58
+        '
+        'TextBox29
+        '
+        Me.TextBox29.Location = New System.Drawing.Point(230, 209)
+        Me.TextBox29.Name = "TextBox29"
+        Me.TextBox29.Size = New System.Drawing.Size(60, 20)
+        Me.TextBox29.TabIndex = 81
+        '
+        'TextBox28
+        '
+        Me.TextBox28.Location = New System.Drawing.Point(230, 186)
+        Me.TextBox28.Name = "TextBox28"
+        Me.TextBox28.Size = New System.Drawing.Size(60, 20)
+        Me.TextBox28.TabIndex = 80
+        '
+        'TextBox27
+        '
+        Me.TextBox27.Location = New System.Drawing.Point(230, 160)
+        Me.TextBox27.Name = "TextBox27"
+        Me.TextBox27.Size = New System.Drawing.Size(60, 20)
+        Me.TextBox27.TabIndex = 79
+        '
+        'TextBox26
+        '
+        Me.TextBox26.Location = New System.Drawing.Point(230, 131)
+        Me.TextBox26.Name = "TextBox26"
+        Me.TextBox26.Size = New System.Drawing.Size(60, 20)
+        Me.TextBox26.TabIndex = 78
+        '
+        'TextBox25
+        '
+        Me.TextBox25.Location = New System.Drawing.Point(230, 100)
+        Me.TextBox25.Name = "TextBox25"
+        Me.TextBox25.Size = New System.Drawing.Size(60, 20)
+        Me.TextBox25.TabIndex = 77
+        '
+        'TextBox24
+        '
+        Me.TextBox24.Location = New System.Drawing.Point(230, 72)
+        Me.TextBox24.Name = "TextBox24"
+        Me.TextBox24.Size = New System.Drawing.Size(60, 20)
+        Me.TextBox24.TabIndex = 76
+        '
+        'Label17
+        '
+        Me.Label17.AutoSize = True
+        Me.Label17.Location = New System.Drawing.Point(227, 47)
+        Me.Label17.Name = "Label17"
+        Me.Label17.Size = New System.Drawing.Size(71, 13)
+        Me.Label17.TabIndex = 75
+        Me.Label17.Text = "Califi_Maxima"
+        '
+        'TextBox23
+        '
+        Me.TextBox23.Location = New System.Drawing.Point(152, 211)
+        Me.TextBox23.Name = "TextBox23"
+        Me.TextBox23.Size = New System.Drawing.Size(54, 20)
+        Me.TextBox23.TabIndex = 74
         '
         'Label16
         '
@@ -429,68 +503,68 @@ Partial Class Alumnos
         '
         'TextBox22
         '
-        Me.TextBox22.Location = New System.Drawing.Point(194, 186)
+        Me.TextBox22.Location = New System.Drawing.Point(152, 186)
         Me.TextBox22.Name = "TextBox22"
-        Me.TextBox22.Size = New System.Drawing.Size(100, 20)
+        Me.TextBox22.Size = New System.Drawing.Size(54, 20)
         Me.TextBox22.TabIndex = 71
         '
         'TextBox21
         '
-        Me.TextBox21.Location = New System.Drawing.Point(194, 160)
+        Me.TextBox21.Location = New System.Drawing.Point(152, 160)
         Me.TextBox21.Name = "TextBox21"
-        Me.TextBox21.Size = New System.Drawing.Size(100, 20)
+        Me.TextBox21.Size = New System.Drawing.Size(54, 20)
         Me.TextBox21.TabIndex = 70
         '
         'TextBox11
         '
         Me.TextBox11.Location = New System.Drawing.Point(80, 72)
         Me.TextBox11.Name = "TextBox11"
-        Me.TextBox11.Size = New System.Drawing.Size(89, 20)
+        Me.TextBox11.Size = New System.Drawing.Size(50, 20)
         Me.TextBox11.TabIndex = 69
         '
         'TextBox12
         '
-        Me.TextBox12.Location = New System.Drawing.Point(81, 105)
+        Me.TextBox12.Location = New System.Drawing.Point(81, 100)
         Me.TextBox12.Name = "TextBox12"
-        Me.TextBox12.Size = New System.Drawing.Size(90, 20)
+        Me.TextBox12.Size = New System.Drawing.Size(49, 20)
         Me.TextBox12.TabIndex = 68
         '
         'TextBox17
         '
         Me.TextBox17.Location = New System.Drawing.Point(80, 211)
         Me.TextBox17.Name = "TextBox17"
-        Me.TextBox17.Size = New System.Drawing.Size(89, 20)
+        Me.TextBox17.Size = New System.Drawing.Size(50, 20)
         Me.TextBox17.TabIndex = 67
         '
         'TextBox18
         '
-        Me.TextBox18.Location = New System.Drawing.Point(194, 76)
+        Me.TextBox18.Location = New System.Drawing.Point(152, 72)
         Me.TextBox18.Name = "TextBox18"
-        Me.TextBox18.Size = New System.Drawing.Size(90, 20)
+        Me.TextBox18.Size = New System.Drawing.Size(54, 20)
         Me.TextBox18.TabIndex = 64
         '
         'TextBox19
         '
-        Me.TextBox19.Location = New System.Drawing.Point(194, 105)
+        Me.TextBox19.Location = New System.Drawing.Point(152, 100)
         Me.TextBox19.Name = "TextBox19"
-        Me.TextBox19.Size = New System.Drawing.Size(90, 20)
+        Me.TextBox19.Size = New System.Drawing.Size(54, 20)
         Me.TextBox19.TabIndex = 65
         '
         'TextBox20
         '
-        Me.TextBox20.Location = New System.Drawing.Point(194, 131)
+        Me.TextBox20.Location = New System.Drawing.Point(152, 131)
         Me.TextBox20.Name = "TextBox20"
-        Me.TextBox20.Size = New System.Drawing.Size(90, 20)
+        Me.TextBox20.Size = New System.Drawing.Size(54, 20)
         Me.TextBox20.TabIndex = 66
         '
         'Label14
         '
         Me.Label14.AutoSize = True
-        Me.Label14.Location = New System.Drawing.Point(203, 45)
+        Me.Label14.Location = New System.Drawing.Point(149, 47)
         Me.Label14.Name = "Label14"
-        Me.Label14.Size = New System.Drawing.Size(57, 13)
+        Me.Label14.Size = New System.Drawing.Size(68, 13)
         Me.Label14.TabIndex = 63
-        Me.Label14.Text = "Porsentaje"
+        Me.Label14.Text = "Califi_Minima"
         '
         'Label13
         '
@@ -528,13 +602,6 @@ Partial Class Alumnos
         Me.Label11.TabIndex = 58
         Me.Label11.Text = "Materia4"
         '
-        'TextBox10
-        '
-        Me.TextBox10.Location = New System.Drawing.Point(50, 180)
-        Me.TextBox10.Name = "TextBox10"
-        Me.TextBox10.Size = New System.Drawing.Size(218, 20)
-        Me.TextBox10.TabIndex = 57
-        '
         'Label9
         '
         Me.Label9.AutoSize = True
@@ -552,6 +619,13 @@ Partial Class Alumnos
         Me.Label8.Size = New System.Drawing.Size(48, 13)
         Me.Label8.TabIndex = 54
         Me.Label8.Text = "Materia1"
+        '
+        'TextBox10
+        '
+        Me.TextBox10.Location = New System.Drawing.Point(50, 180)
+        Me.TextBox10.Name = "TextBox10"
+        Me.TextBox10.Size = New System.Drawing.Size(218, 20)
+        Me.TextBox10.TabIndex = 57
         '
         'Label4
         '
@@ -571,15 +645,6 @@ Partial Class Alumnos
         Me.Label3.TabIndex = 52
         Me.Label3.Text = "Apellido Materno"
         '
-        'Button8
-        '
-        Me.Button8.Location = New System.Drawing.Point(409, 286)
-        Me.Button8.Name = "Button8"
-        Me.Button8.Size = New System.Drawing.Size(75, 23)
-        Me.Button8.TabIndex = 59
-        Me.Button8.Text = "Button8"
-        Me.Button8.UseVisualStyleBackColor = True
-        '
         'TextBox4
         '
         Me.TextBox4.Location = New System.Drawing.Point(381, 137)
@@ -594,12 +659,21 @@ Partial Class Alumnos
         Me.TextBox9.Size = New System.Drawing.Size(218, 20)
         Me.TextBox9.TabIndex = 60
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(996, 107)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(147, 23)
+        Me.Button1.TabIndex = 61
+        Me.Button1.Text = "Calificaciones Mi-Max"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
         'Alumnos
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1211, 740)
-        Me.Controls.Add(Me.Button8)
+        Me.ClientSize = New System.Drawing.Size(1175, 740)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.Button5)
         Me.Controls.Add(Me.Button3)
@@ -681,7 +755,6 @@ Partial Class Alumnos
     Friend WithEvents Label3 As Label
     Friend WithEvents Label8 As Label
     Friend WithEvents Label4 As Label
-    Friend WithEvents Button8 As Button
     Friend WithEvents TextBox11 As TextBox
     Friend WithEvents TextBox12 As TextBox
     Friend WithEvents TextBox17 As TextBox
@@ -704,4 +777,13 @@ Partial Class Alumnos
     Friend WithEvents VerTablaToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents GenerarNumerosToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents SUBIRDATOSToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents Button1 As Button
+    Friend WithEvents TextBox29 As TextBox
+    Friend WithEvents TextBox28 As TextBox
+    Friend WithEvents TextBox27 As TextBox
+    Friend WithEvents TextBox26 As TextBox
+    Friend WithEvents TextBox25 As TextBox
+    Friend WithEvents TextBox24 As TextBox
+    Friend WithEvents Label17 As Label
+    Friend WithEvents TextBox23 As TextBox
 End Class
